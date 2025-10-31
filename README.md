@@ -17,8 +17,6 @@ AI-News-Summariser is a tool designed to automatically generate concise summarie
 > [!CAUTION]
 > Ensure that you use this tool responsibly. Respect the copyrights and terms of use of the news sources.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Features
 
 - Automatic summarization of news articles.
@@ -31,7 +29,6 @@ AI-News-Summariser is a tool designed to automatically generate concise summarie
 - Python
 - Newspaper3k
 - Flask
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
 
@@ -52,8 +49,6 @@ AI-News-Summariser can be installed and used on various platforms. Follow the st
     python app.py
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Future features and improvements
 
 - [ ] Customize summarization preferences.
@@ -65,7 +60,7 @@ AI-News-Summariser can be installed and used on various platforms. Follow the st
 
 See the [open issues](https://github.com/Gabbar-v7/Octo-Giggle/issues) for a full list of proposed features and known issues.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="">back to top</a>)</p>
 
 ## Contributing
 
@@ -81,10 +76,6 @@ Don't forget to give the project a star! Thanks again!
 5. Push to the Branch (`git push origin feature/AmazingFeature`)
 6. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## License
 
 Distributed under the MIT License. See LICENSE.txt for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
